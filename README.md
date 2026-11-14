@@ -4,7 +4,7 @@ Facilitator presentation for 15 November 2026.
 
 - 10:30–12:00: Monitoring, Evaluation & Impact Assessment, centred on clarifying a Logic Model step by step.
 - 14:45–15:45: Stakeholder & Partnership.
-- 34 teaching slides and 4 reference slides, with facilitator notes.
+- 35 teaching slides and 4 reference slides, with facilitator notes.
 
 ## Present
 
